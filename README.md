@@ -14,3 +14,5 @@ Sample repository for demonestrating git usage
 This is a simple web project, deployment can be on any web server or even file system
 
 ## How To Contribute
+
+2010Git.Training.
