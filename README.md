@@ -11,8 +11,11 @@ This example is to show different parts of the Git Repository and various comand
 Sample repository for demonestrating git usage
 
 ## Deployment
+
 This is a simple web project, deployment can be on any web server or even file system
 
 ## How To Contribute
+
+Please fork this repository and then issue pull requests
 
 2010Git.Training.
