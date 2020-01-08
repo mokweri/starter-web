@@ -18,4 +18,6 @@ This is a simple web project, deployment can be on any web server or even file s
 
 Please fork this repository and then issue pull requests
 
-2010Git.Training.
+### Copyright
+
+2010 Git.Training.All rights reserved
