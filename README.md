@@ -1,4 +1,4 @@
-# Starter Web Project
+# Starter Web Project on new branch
 
 This repository is for showing how Git and GitHub work. Update a line in introduction
 
